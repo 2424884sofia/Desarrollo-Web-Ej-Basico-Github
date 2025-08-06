@@ -1,17 +1,18 @@
-\# Desarrollo-Web---Ej-Basico-Github
+# Desarrollo-Web---Ej-Basico-Github
 
 Repositorio de Prueba para Comandos de Git
 
 
 
-\## Autores
+## Autor
 
-* Sofia \*\*Peiretti\*\*
-* Lucia \*\*Peiretti\*\*
+* Sofia **Peiretti**
+
+* Lucia **Peiretti**
 
 
 
-\## Contenido/Descripción
+## Contenido/Descripción
 
 
 
@@ -31,5 +32,5 @@ Repositorio de Prueba para Comandos de Git
 
 
 
-Link del Proyecto: \[Aula Virtual] (https://presencial.ucc.edu.ar/course/view.php?id=13678)
+Link del Proyecto: [Aula Virtual] (https://presencial.ucc.edu.ar/course/view.php?id=13678)
 
