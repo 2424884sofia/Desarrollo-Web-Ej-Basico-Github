@@ -18,5 +18,5 @@ Repositorio de Prueba para Comandos de Git
 
 :sparkles:
 
-Link del Proyecto: [Aula Virtual] (https://presencial.ucc.edu.ar/course/view.php?id=13678)
+Link del Proyecto: [Aula Virtual](https://presencial.ucc.edu.ar/course/view.php?id=13678)
 
